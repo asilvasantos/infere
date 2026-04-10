@@ -1,0 +1,16 @@
+Esta pasta é composta por 27 arquivos em formato csv com delimitador de coluna ponto e vírgula (;), qualificador de texto aspas duplas (") e codificação UTF-8.
+
+Estes são os parâmetros default (padrão) do mecanismo de exportação do site https://www12.senado.leg.br/orcamento/sigabrasil
+
+Os arquivos foram extraídos seguindo a mesma metodologia de exportação.
+---
+
+Sugere-se NÃO ABRIR os arquivos csv diretamente no Microsoft Excel, pois ele desconfigura o csv original quebrando linhas e possivelmente alterando nomes de colunas e conteúdo dos dados.
+
+É recomendado o uso do R ou do Python. Ou mesmo a subida dos dados em banco SQL.
+
+Caso o pesquisador só tenha o Excel disponível, sugere-se o uso do Editor PowerQuery, disponível na guia 'Dados' do programa.
+
+---
+
+A utização em editores de planilha open source (LibreOffice, OpenSource e similares) não foi testada, e portanto o comportamento não foi mapeado. 
