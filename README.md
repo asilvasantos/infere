@@ -76,9 +76,7 @@ O processo de reclassificação ocorre em 5 níveis:
 - 🧠 Business Intelligence
 
 ---
-## 📂 Estrutura do projeto
 
-</> Bash
 infere/
 │── data/
 │── scripts/
