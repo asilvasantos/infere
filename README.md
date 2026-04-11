@@ -1,2 +1,14 @@
-# infere
-Painel dos Investimentos Federais com metodologia desenvolvida no Ipea para distribuir o gasto para Estados e Regiões dos orçamentos Fiscal e da Seguridade Social para os anos de 2001 até 2020.
+# 🔬 INFERE  
+### Um microscópio sobre o orçamento público brasileiro
+
+📊 Plataforma de análise e regionalização de investimentos federais  
+📍 Aumentando a qualidade da informação de 45% → 85%  
+
+---
+
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![python](https://img.shields.io/badge/Python-3.10-blue)
+![r](https://img.shields.io/badge/R-Analytics-blue)
+![powerbi](https://img.shields.io/badge/PowerBI-dashboard-yellow)
+
+---
