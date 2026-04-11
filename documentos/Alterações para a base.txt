@@ -1,0 +1,24 @@
+Banco para download:
+- Eliminar as linhas com despesa executada = 0
+- Ver colunas:
+ - Função e subfunção (ver as com erro - NA)
+ - Remover empenho
+ - Remover a UF* e renomear UF_novo para UF_IPEA ou UF* (decidir qual o melhor)
+
+*Ver a questão da correção igp di (mantendo todas as colunas) - dez 2020 
+- atualizar para 2024 para a versão para download
+- www.calculador.com.br 
+
+Verificar as amostras (anterior e nova)
+Amostra (antigo 2020) vs Amostra com novo algoritmo (2020)
+
+- Renomear o arquivo Amostra para 2025 e atualizar (compartilhar o arquivo)
+
+- ver o problema de 2001
+
+- Para o arquivo novo criar nomes de trabalho (fantasia) e um glossário para realizar os de-para.
+
+- Ver fluxo de trabalho com o Nelson (download e manipulação das simplificações)
+
+- Verificar a regionalização (percentual, se está em função do valor)
+

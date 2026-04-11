@@ -1,0 +1,16 @@
+Esta pasta é composta por 2 scripts construídos em linguagem R e pensado para trabalho em ambiente de desenvolvimento IDE RStudio.
+
+O código foi salvo com encoging ISO-8859-1.
+
+Caso o pesquisador tenha algum problema de codificação:
+
+Ir até a aba:
+ File > Reopen with Encoding > Selecionar ISO-8859-1.
+
+O script 1_EMPILHA_LOA.R realiza o processo de bind dos 21 arquivos originalmente extraídos do SIGABRASIL e salvos na past INVESTIMENTO_FEDERAL\_dados\0_dados_originais
+
+• O segundo script, 2_PROCESSA_LOA.R realiza o processamento das informações seguindo uma lógica combinacional que visa realocar as 'Despesas Executadas' originalmente declaradas em determinadas UFs em outras UFs.
+
+O conjunto de regras lógicas estão delhadas no arquivo REGRAS_LOGICAS disponível na pasta 
+INVESTIMENTO_FEDERAL\_documentos
+
