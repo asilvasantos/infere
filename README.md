@@ -78,6 +78,7 @@ O processo de reclassificação ocorre em 5 níveis:
 ---
 ## 📂 Estrutura do projeto
 
+</> Bash
 infere/
 │── data/
 │── scripts/
