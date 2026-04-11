@@ -81,10 +81,9 @@ O processo de reclassificação ocorre em 5 níveis:
 
 ```bash
 infere/
-├── data/
-├── scripts/
-├── notebooks/
-├── docs/
+├── dados/
 ├── dashboard/
+├── scripts/
+├── documentos/
 └── README.md
 ```
