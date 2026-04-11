@@ -77,9 +77,14 @@ O processo de reclassificação ocorre em 5 níveis:
 
 ---
 
+## 📂 Estrutura do projeto
+
+```bash
 infere/
-│── data/
-│── scripts/
-│── notebooks/
-│── docs/
-│── dashboard/
+├── data/
+├── scripts/
+├── notebooks/
+├── docs/
+├── dashboard/
+└── README.md
+```
