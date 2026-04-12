@@ -87,3 +87,22 @@ infere/
 ├── documentos/
 └── README.md
 ```
+## ▶️ Como Executar
+
+Siga os passos abaixo para processar os dados do INFERE:
+
+### 1️⃣ Obter o repositório
+
+Clone ou faça o download do projeto:
+
+```bash
+git clone https://github.com/seu-usuario/infere.git
+cd infere
+
+### 2️⃣ Preparar os dados
+
+Acesse a pasta:
+
+data/0_dados_originais/
+📦 Descompacte todos os arquivos disponíveis nessa pasta
+⚠️ Esse passo é obrigatório para que o processamento funcione corretamente
