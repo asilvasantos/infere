@@ -98,6 +98,7 @@ Clone ou faça o download do projeto:
 ```bash
 git clone https://github.com/seu-usuario/infere.git
 cd infere
+```
 
 ### 2️⃣ Preparar os dados
 
