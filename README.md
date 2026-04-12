@@ -103,7 +103,37 @@ cd infere
 ### 2️⃣ Preparar os dados
 
 Acesse a pasta:
-
-data/0_dados_originais/
+```bash
+cd data/0_dados_originais/
+```
 📦 Descompacte todos os arquivos disponíveis nessa pasta
 ⚠️ Esse passo é obrigatório para que o processamento funcione corretamente
+
+### 3️⃣ Executar o processamento
+
+Acesse a pasta:
+```bash
+cd scripts/python/
+```
+
+Execute o arquivo:
+```bash
+processa_todos_os_anos_loa.bat
+```
+### 🔄 O que acontece durante a execução?
+
+O script irá automaticamente:
+
+📥 Ler todos os anos disponíveis em 0_dados_originais
+🧠 Aplicar o algoritmo de regionalização
+📂 Gerar os dados processados em:
+1_dados_regionalizados/
+📊 Consolidar os dados finais em:
+2_dados_empilhados/
+
+### ✅ Resultado final
+
+Ao final da execução, você terá:
+
+Dados regionalizados por ano
+Base consolidada pronta para análise e visualização 
