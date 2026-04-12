@@ -124,11 +124,11 @@ processa_todos_os_anos_loa.bat
 
 O script irá automaticamente:
 
-📥 Ler todos os anos disponíveis em 0_dados_originais
-🧠 Aplicar o algoritmo de regionalização
-📂 Gerar os dados processados em:
+- 📥 Ler todos os anos disponíveis em 0_dados_originais
+- 🧠 Aplicar o algoritmo de regionalização
+- 📂 Gerar os dados processados em:
 1_dados_regionalizados/
-📊 Consolidar os dados finais em:
+- 📊 Consolidar os dados finais em:
 2_dados_empilhados/
 
 ### ✅ Resultado final
