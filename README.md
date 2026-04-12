@@ -31,7 +31,7 @@ O **INFERE** é uma plataforma de Business Intelligence que melhora a qualidade 
 👥 Autores
 
 - **Nelson Zackseski**    
-  Técnico de Planejamento e Pesquisa – Dirur/Ipea
+  Técnico de Planejamento e Pesquisa – Dirur/Ipea  
   📧 nelson.zackseski@ipea.gov.br
 
 - **Alexandre Silva dos Santos**  
