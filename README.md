@@ -149,5 +149,5 @@ O script irá automaticamente:
 
 Ao final da execução, você terá:
 
-Dados regionalizados por ano
-Base consolidada pronta para análise e visualização 
+- Dados regionalizados por ano
+- Base consolidada pronta para análise e visualização 
